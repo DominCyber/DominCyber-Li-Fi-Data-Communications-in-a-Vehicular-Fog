@@ -47,7 +47,7 @@ This Saint Leo University cornerstone project allow undergraduates to explore em
 <p> </p>
 <p>Annotated Bibliography</p>
 <p>1) Haas, H. (2011, Aug. 2) Wireless data from every lightbulb. Retrieved from https://www.youtube.com/watch?v=NaoSp4NpkGg </p>
-<p><2) Hernandez-Oregon, G., Rivero-Angeles, M., Chimal-Eguía J., Campos-Fentanes, A.,  Jimenez-Gallardo, J., Estevez-Alva, U., Juarez-Gonzalez, O., Rosas-Calderon, P., Sandoval-Reyes, S., Menchaca-Mendez, R., (2019, Aug. 23) Performance Analysis of V2V and V2I LiFi Communication Systems in Traffic Lights 
+<p>2) Hernandez-Oregon, G., Rivero-Angeles, M., Chimal-Eguía J., Campos-Fentanes, A.,  Jimenez-Gallardo, J., Estevez-Alva, U., Juarez-Gonzalez, O., Rosas-Calderon, P., Sandoval-Reyes, S., Menchaca-Mendez, R., (2019, Aug. 23) Performance Analysis of V2V and V2I LiFi Communication Systems in Traffic Lights 
 Retrieved form https://www.hindawi.com/journals/wcmc/2019/4279683/</p>
 <p>3) Yeasmin, N., Zaman, R., Mouri, I., (2016, Aug.) Traffic Control Management and Road Safety Using Vehicle To Vehicle Data Transmission Based on Li-Fi. Retrieved from http://aircconline.com/ijcseit/V6N4/6416ijcseit01.pdf</p>
 <p>4) Lee, E., Gerla, M., Rau, G., Lee, U., Lim, J., (2016, Sep. 6) Internet of Vehicles: From intelligent grid to autonomous cars and vehicular fogs. Retrieved from https://journals.sagepub.com/doi/10.1177/1550147716665500</p>
