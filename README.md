@@ -23,18 +23,23 @@ This Saint Leo University cornerstone project allow undergraduates to explore em
 <p><i>Figure 2:  Li-Fi Working mechanism (Yeasmin et al., 2016).</i>i</p>
 <p> </p>
 <p>&nbsp; Hernandez-Oregon, et al. have successful conducted a viable study that used a traffic light server model that then transmits pertinent data to queues of stationary cars, that in turn transmits data from head-to-taillight fashion through said queue.</p>
+
 #### Possible Benefits of Li-Fi in Vehicular Fog
+
 #### Study
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 <p><i>&nbsp;Limitation of Study</i></p>
-<p>&nbsp;</p>
+<p>&nbsp;This study conducted by Hernandez-Oregon et al. (2019) had rational limitations, focusing on static is the worst-case scenario of data transfer, thus focus on the traffic light server model. The study was assumed an error-free communication environment with vehicles perfectly aligned, spaced and not moving. Other limitations included not considering moving vehicles in green-traffic light crossing, or U turn situations, which the researcher will assess in future studies (Hernandez-Oregon et al., 2019).</p>
+
 #### Challenges
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 #### Conclusion
 <p>&nbsp;</p>
 <p>&nbsp;</p>
