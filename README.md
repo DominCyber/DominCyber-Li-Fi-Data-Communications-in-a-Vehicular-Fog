@@ -22,35 +22,24 @@ This Saint Leo University cornerstone project allow undergraduates to explore em
 <p> </p>
 <p><i>Figure 2:  Li-Fi Working mechanism (Yeasmin et al., 2016).</i>i</p>
 <p> </p>
-
 <p>&nbsp; Hernandez-Oregon, et al. have successful conducted a viable study that used a traffic light server model that then transmits pertinent data to queues of stationary cars, that in turn transmits data from head-to-taillight fashion through said queue.</p>
-<p><i>&nbsp;Possible Benefits of Li-Fi in Vehicular Fog</i></p>
-
+#### Possible Benefits of Li-Fi in Vehicular Fog
+#### Study
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p><i>&nbsp;Limitation of Study</i></p>
+<p>&nbsp;</p>
+#### Challenges
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+#### Conclusion
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-<p> </p>
+<p>Citations</p>
 <p>Annotated Bibliography</p>
 <p>1) Haas, H. (2011, Aug. 2) Wireless data from every lightbulb. Retrieved from https://www.youtube.com/watch?v=NaoSp4NpkGg </p>
 <p>2) Hernandez-Oregon, G., Rivero-Angeles, M., Chimal-Eguía J., Campos-Fentanes, A.,  Jimenez-Gallardo, J., Estevez-Alva, U., Juarez-Gonzalez, O., Rosas-Calderon, P., Sandoval-Reyes, S., Menchaca-Mendez, R., (2019, Aug. 23) Performance Analysis of V2V and V2I LiFi Communication Systems in Traffic Lights 
